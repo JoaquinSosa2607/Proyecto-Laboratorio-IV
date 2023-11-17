@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SosD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SosD.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\0e780137-228b-4d73-a811-e43db9df1b89_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\0e780137-228b-4d73-a811-e43db9df1b89_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\15a92807-165f-4347-88bb-01d7f42bd649_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\15a92807-165f-4347-88bb-01d7f42bd649_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\33870b28-0c79-4cec-b701-df9aeaa9e9ad_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\33870b28-0c79-4cec-b701-df9aeaa9e9ad_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\3d384d0f-c6b7-4066-b881-8128f144e761_Remera Algodon.jfif",
+      "PackagePath": "staticwebassets\\images\\3d384d0f-c6b7-4066-b881-8128f144e761_Remera Algodon.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\5760327a-432a-4b2c-b8ea-5e4ddbd414e9_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\5760327a-432a-4b2c-b8ea-5e4ddbd414e9_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\5a135c6a-7109-4379-9faa-c10bb6c97c6e_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\5a135c6a-7109-4379-9faa-c10bb6c97c6e_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\64a977f7-c731-42c8-8b24-43488e0423b7_Remera Algodon.jfif",
+      "PackagePath": "staticwebassets\\images\\64a977f7-c731-42c8-8b24-43488e0423b7_Remera Algodon.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\7c15c13d-da37-47d4-9167-e8e469cb188f_Remera Algodon.jfif",
+      "PackagePath": "staticwebassets\\images\\7c15c13d-da37-47d4-9167-e8e469cb188f_Remera Algodon.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\88a375d4-4bd6-47b4-9520-27b34d719e1c_Pants.jfif",
+      "PackagePath": "staticwebassets\\images\\88a375d4-4bd6-47b4-9520-27b34d719e1c_Pants.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\89e035fb-5960-4e33-9f84-2b69d1845cb2_Pants.jfif",
+      "PackagePath": "staticwebassets\\images\\89e035fb-5960-4e33-9f84-2b69d1845cb2_Pants.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\8a0020b1-5202-4ed8-b457-e8f88346dfe4_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\8a0020b1-5202-4ed8-b457-e8f88346dfe4_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\8f11e448-85aa-48c5-a1a9-efd69ff73cd8_Remera Algodon.jfif",
+      "PackagePath": "staticwebassets\\images\\8f11e448-85aa-48c5-a1a9-efd69ff73cd8_Remera Algodon.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\a72486a4-1756-4bc7-9bf0-a17b9dbb4ad1_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\a72486a4-1756-4bc7-9bf0-a17b9dbb4ad1_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\b76f4303-2314-4237-8934-66da7c877be7_Pants.jfif",
+      "PackagePath": "staticwebassets\\images\\b76f4303-2314-4237-8934-66da7c877be7_Pants.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\ccbe56ed-f152-46c7-9a41-2e11e42eb35c_Pants.jfif",
+      "PackagePath": "staticwebassets\\images\\ccbe56ed-f152-46c7-9a41-2e11e42eb35c_Pants.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\e3957ebe-6a31-4540-bf6a-197b9d8c4962_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\e3957ebe-6a31-4540-bf6a-197b9d8c4962_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\e3bd1ebd-400c-4a41-bf57-1e0b23421d1e_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\e3bd1ebd-400c-4a41-bf57-1e0b23421d1e_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\eb1a54b4-9cfe-4381-b3f2-837ea02596b9_Pants.jfif",
+      "PackagePath": "staticwebassets\\images\\eb1a54b4-9cfe-4381-b3f2-837ea02596b9_Pants.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\eeea3ec9-eb1d-4098-adb2-6f94084f0c79_Remera Algodon.jfif",
+      "PackagePath": "staticwebassets\\images\\eeea3ec9-eb1d-4098-adb2-6f94084f0c79_Remera Algodon.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SosD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SosD.props",
+      "PackagePath": "build\\SosD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SosD.props",
+      "PackagePath": "buildMultiTargeting\\SosD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SosD.props",
+      "PackagePath": "buildTransitive\\SosD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
