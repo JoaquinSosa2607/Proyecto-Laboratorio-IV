@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "SosD/1.0.0": {
         "dependencies": {
+          "DotNetCore.NPOI": "1.2.3",
           "EFCore.BulkExtensions": "7.1.6",
           "Microsoft.AspNetCore.Authentication.Google": "7.0.14",
           "Microsoft.EntityFrameworkCore": "7.0.14",
@@ -63,6 +64,54 @@
           "lib/netstandard2.0/Microsoft.SqlServer.Types.dll": {
             "assemblyVersion": "1.5.0.0",
             "fileVersion": "1.5.0.0"
+          }
+        }
+      },
+      "DotNetCore.NPOI/1.2.3": {
+        "dependencies": {
+          "DotNetCore.NPOI.Core": "1.2.3",
+          "DotNetCore.NPOI.OpenXml4Net": "1.2.3",
+          "DotNetCore.NPOI.OpenXmlFormats": "1.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.OOXML.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "DotNetCore.NPOI.Core/1.2.3": {
+        "dependencies": {
+          "SharpZipLib": "1.2.0",
+          "System.Drawing.Common": "6.0.0",
+          "System.Text.Encoding.CodePages": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "DotNetCore.NPOI.OpenXml4Net/1.2.3": {
+        "dependencies": {
+          "DotNetCore.NPOI.Core": "1.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.OpenXml4Net.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "DotNetCore.NPOI.OpenXmlFormats/1.2.3": {
+        "dependencies": {
+          "DotNetCore.NPOI.OpenXml4Net": "1.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.OpenXmlFormats.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
           }
         }
       },
@@ -1941,6 +1990,14 @@
           }
         }
       },
+      "SharpZipLib/1.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/ICSharpCode.SharpZipLib.dll": {
+            "assemblyVersion": "1.2.0.246",
+            "fileVersion": "1.2.0.246"
+          }
+        }
+      },
       "SQLitePCLRaw.core/2.1.4": {
         "dependencies": {
           "System.Memory": "4.5.5"
@@ -2788,6 +2845,34 @@
       "sha512": "sha512-1c3j8MUhOCMWRQfs19M35ZjjNyxBCkyUTptjkIPKYWyjCNkoDeFL73Kh00td6kOgtvZA6mikdhlORaVJNycRKA==",
       "path": "dotmorten.microsoft.sqlserver.types/1.5.0",
       "hashPath": "dotmorten.microsoft.sqlserver.types.1.5.0.nupkg.sha512"
+    },
+    "DotNetCore.NPOI/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-agXbYDkOvovMYBNqTcRAr6jrTtUXGYzVNdS9Yxy4PDZa8tBQiIeAD+54/Jdsc+3/Mln1L1Yj+SciO1TYwljcdQ==",
+      "path": "dotnetcore.npoi/1.2.3",
+      "hashPath": "dotnetcore.npoi.1.2.3.nupkg.sha512"
+    },
+    "DotNetCore.NPOI.Core/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2OgRNy4OpVOIwnkU8KPJs6itTE2xFpIFkFmci/iAnea/ZPTzQJrmuNPVKlfdn1csOI8ecFWES8Tk2ZmRSJjl5w==",
+      "path": "dotnetcore.npoi.core/1.2.3",
+      "hashPath": "dotnetcore.npoi.core.1.2.3.nupkg.sha512"
+    },
+    "DotNetCore.NPOI.OpenXml4Net/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gELhZln7TuLn2he3r0mx1qnuPLjEgTW5z8RTFnEexSQ+r1smDqSSryXNEhwUvj1beBUxTjKq2RrwkrWwLgtScA==",
+      "path": "dotnetcore.npoi.openxml4net/1.2.3",
+      "hashPath": "dotnetcore.npoi.openxml4net.1.2.3.nupkg.sha512"
+    },
+    "DotNetCore.NPOI.OpenXmlFormats/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3v0cJA+4rclcoW+hVuU4oYu1wNYv/jEIqQghLDMHqlviyOVxnuruAUDvsgENjiZM0iWFhkK0N/ZsXvH+qGvObw==",
+      "path": "dotnetcore.npoi.openxmlformats/1.2.3",
+      "hashPath": "dotnetcore.npoi.openxmlformats.1.2.3.nupkg.sha512"
     },
     "EFCore.BulkExtensions/7.1.6": {
       "type": "package",
@@ -3880,6 +3965,13 @@
       "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "SharpZipLib/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zvWa/L02JHNatdtjya6Swpudb2YEHaOLHL1eRrqpjm71iGRNUNONO5adUF/9CHbSJbzhELW1UoH4NGy7n7+3bQ==",
+      "path": "sharpziplib/1.2.0",
+      "hashPath": "sharpziplib.1.2.0.nupkg.sha512"
     },
     "SQLitePCLRaw.core/2.1.4": {
       "type": "package",

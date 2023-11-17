@@ -19,22 +19,35 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+            </div>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+
                         <div class="dropdown">
-                            <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <button class="btn btn-danger dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Opciones
                             </button>
                             <ul class="dropdown-menu" style="">
-                                <li><a class="dropdown-item" asp-area="" asp-controller="Presupuesto" asp-action="Index">Presupuesto</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="TipoPrendas" asp-action="Index">Tipo de Prenda</a></li>
-                                <li><a class="dropdown-item" asp-area="" asp-controller="TipoTelas" asp-action="Index">Tipo de Tela</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Presupuesto" asp-action="Index">Presupuestos</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="TipoPrendas" asp-action="Index">Tipos de Prenda</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="TipoTelas" asp-action="Index">Tipos de Tela</a></li>
                                 <li><a class="dropdown-item" asp-area="" asp-controller="Diseño" asp-action="Index">Diseño</a></li>
-                                
                             </ul>
                         </div>
-                    </ul>
-                </div>
+                    
+
+                        &nbsp;
+
+                        <div class="dropdown">
+                            <button class="btn btn-danger dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Promociones
+                            </button>
+                            <ul class="dropdown-menu" style="">
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Promociones" asp-action="Index">Promociones</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-controller="MedioPagos" asp-action="Index">Medios de Pago</a></li>
+                            </ul>
+                        </div>
+
+                        &nbsp;
             </div>
         </nav>
     </header>

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SosD.Models.MedioPago>
+
+@{
+    ViewData["Title"] = "Medios de Pago";
+}
+
+<h1 style="font-family:Impact,Arial;">Medios de Pago</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-dark">Ingresar un medio de pago</a>
+</p>
+<table class="table" style="box-shadow: 10px 10px 5px lightgrey;">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaRegistro)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaRegistro)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

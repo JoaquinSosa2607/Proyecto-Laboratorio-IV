@@ -63,6 +63,66 @@
           }
         }
       },
+      "DotNetCore.NPOI/1.2.3": {
+        "type": "package",
+        "dependencies": {
+          "DotNetCore.NPOI.Core": "1.2.3",
+          "DotNetCore.NPOI.OpenXml4Net": "1.2.3",
+          "DotNetCore.NPOI.OpenXmlFormats": "1.2.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/NPOI.OOXML.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.OOXML.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/netstandard2.0/NOTICE.TXT": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "NOTICE.TXT"
+          }
+        }
+      },
+      "DotNetCore.NPOI.Core/1.2.3": {
+        "type": "package",
+        "dependencies": {
+          "SharpZipLib": "1.2.0",
+          "System.Drawing.Common": "4.5.0",
+          "System.Text.Encoding.CodePages": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/NPOI.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.dll": {}
+        }
+      },
+      "DotNetCore.NPOI.OpenXml4Net/1.2.3": {
+        "type": "package",
+        "dependencies": {
+          "DotNetCore.NPOI.Core": "1.2.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/NPOI.OpenXml4Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.OpenXml4Net.dll": {}
+        }
+      },
+      "DotNetCore.NPOI.OpenXmlFormats/1.2.3": {
+        "type": "package",
+        "dependencies": {
+          "DotNetCore.NPOI.OpenXml4Net": "1.2.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/NPOI.OpenXmlFormats.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.OpenXmlFormats.dll": {}
+        }
+      },
       "EFCore.BulkExtensions/7.1.6": {
         "type": "package",
         "dependencies": {
@@ -2612,6 +2672,19 @@
           }
         }
       },
+      "SharpZipLib/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ICSharpCode.SharpZipLib.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/ICSharpCode.SharpZipLib.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "SQLitePCLRaw.core/2.1.4": {
         "type": "package",
         "dependencies": {
@@ -4290,6 +4363,61 @@
         "lib/netstandard2.0/Microsoft.SqlServer.Types.dll",
         "lib/netstandard2.0/Microsoft.SqlServer.Types.pdb",
         "lib/netstandard2.0/Microsoft.SqlServer.Types.xml"
+      ]
+    },
+    "DotNetCore.NPOI/1.2.3": {
+      "sha512": "agXbYDkOvovMYBNqTcRAr6jrTtUXGYzVNdS9Yxy4PDZa8tBQiIeAD+54/Jdsc+3/Mln1L1Yj+SciO1TYwljcdQ==",
+      "type": "package",
+      "path": "dotnetcore.npoi/1.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/NOTICE.TXT",
+        "contentFiles/any/net461/NOTICE.TXT",
+        "contentFiles/any/netstandard2.0/NOTICE.TXT",
+        "dotnetcore.npoi.1.2.3.nupkg.sha512",
+        "dotnetcore.npoi.nuspec",
+        "lib/net461/NPOI.OOXML.dll",
+        "lib/netstandard2.0/NPOI.OOXML.dll"
+      ]
+    },
+    "DotNetCore.NPOI.Core/1.2.3": {
+      "sha512": "2OgRNy4OpVOIwnkU8KPJs6itTE2xFpIFkFmci/iAnea/ZPTzQJrmuNPVKlfdn1csOI8ecFWES8Tk2ZmRSJjl5w==",
+      "type": "package",
+      "path": "dotnetcore.npoi.core/1.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetcore.npoi.core.1.2.3.nupkg.sha512",
+        "dotnetcore.npoi.core.nuspec",
+        "lib/net461/NPOI.dll",
+        "lib/netstandard2.0/NPOI.dll"
+      ]
+    },
+    "DotNetCore.NPOI.OpenXml4Net/1.2.3": {
+      "sha512": "gELhZln7TuLn2he3r0mx1qnuPLjEgTW5z8RTFnEexSQ+r1smDqSSryXNEhwUvj1beBUxTjKq2RrwkrWwLgtScA==",
+      "type": "package",
+      "path": "dotnetcore.npoi.openxml4net/1.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetcore.npoi.openxml4net.1.2.3.nupkg.sha512",
+        "dotnetcore.npoi.openxml4net.nuspec",
+        "lib/net461/NPOI.OpenXml4Net.dll",
+        "lib/netstandard2.0/NPOI.OpenXml4Net.dll"
+      ]
+    },
+    "DotNetCore.NPOI.OpenXmlFormats/1.2.3": {
+      "sha512": "3v0cJA+4rclcoW+hVuU4oYu1wNYv/jEIqQghLDMHqlviyOVxnuruAUDvsgENjiZM0iWFhkK0N/ZsXvH+qGvObw==",
+      "type": "package",
+      "path": "dotnetcore.npoi.openxmlformats/1.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetcore.npoi.openxmlformats.1.2.3.nupkg.sha512",
+        "dotnetcore.npoi.openxmlformats.nuspec",
+        "lib/net461/NPOI.OpenXmlFormats.dll",
+        "lib/netstandard2.0/NPOI.OpenXmlFormats.dll"
       ]
     },
     "EFCore.BulkExtensions/7.1.6": {
@@ -8000,6 +8128,23 @@
         "runtimes/win-x86/native/sni.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "SharpZipLib/1.2.0": {
+      "sha512": "zvWa/L02JHNatdtjya6Swpudb2YEHaOLHL1eRrqpjm71iGRNUNONO5adUF/9CHbSJbzhELW1UoH4NGy7n7+3bQ==",
+      "type": "package",
+      "path": "sharpziplib/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/ICSharpCode.SharpZipLib.dll",
+        "lib/net45/ICSharpCode.SharpZipLib.pdb",
+        "lib/net45/ICSharpCode.SharpZipLib.xml",
+        "lib/netstandard2.0/ICSharpCode.SharpZipLib.dll",
+        "lib/netstandard2.0/ICSharpCode.SharpZipLib.pdb",
+        "lib/netstandard2.0/ICSharpCode.SharpZipLib.xml",
+        "sharpziplib.1.2.0.nupkg.sha512",
+        "sharpziplib.nuspec"
       ]
     },
     "SQLitePCLRaw.core/2.1.4": {
@@ -12079,6 +12224,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DotNetCore.NPOI >= 1.2.3",
       "EFCore.BulkExtensions >= 7.1.6",
       "Microsoft.AspNetCore.Authentication.Google >= 7.0.14",
       "Microsoft.EntityFrameworkCore >= 7.0.14",
@@ -12132,6 +12278,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "DotNetCore.NPOI": {
+            "target": "Package",
+            "version": "[1.2.3, )"
+          },
           "EFCore.BulkExtensions": {
             "target": "Package",
             "version": "[7.1.6, )"

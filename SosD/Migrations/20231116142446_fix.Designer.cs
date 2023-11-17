@@ -13,7 +13,7 @@ namespace SosD.Migrations
 {
     [DbContext(typeof(SosDContext))]
     [Migration("20231116142446_fix")]
-    partial class fix
+    partial class Fix
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

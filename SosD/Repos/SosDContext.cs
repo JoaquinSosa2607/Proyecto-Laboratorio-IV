@@ -19,6 +19,8 @@ namespace SosD.Repos
         public virtual DbSet<TipoPrenda> TipoPrendas { get; set; }
         public virtual DbSet<Diseño> Diseño { get; set; }
         public virtual DbSet<Presupuesto> Presupuestos { get; set; }
+        public virtual DbSet<MedioPago> MedioPagos { get; set; }
+        public virtual DbSet<Promociones> Promociones { get; set; }
         public DbSet<PresupuestoViewModel> PresupuestoViewModel { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

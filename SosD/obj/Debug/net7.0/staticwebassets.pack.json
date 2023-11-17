@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\SosD.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\archivos\\Promociones.xlsx",
+      "PackagePath": "staticwebassets\\archivos\\Promociones.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\archivos\\Test.xlsx",
+      "PackagePath": "staticwebassets\\archivos\\Test.xlsx"
+    },
+    {
       "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -43,6 +51,10 @@
     {
       "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\4ead9f7f-586b-414f-a2bf-730073d0b2e6_Remera Algodon.jpg",
       "PackagePath": "staticwebassets\\images\\4ead9f7f-586b-414f-a2bf-730073d0b2e6_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\50d4f4eb-d390-4222-b1a2-10d1f7920510_Pants.jfif",
+      "PackagePath": "staticwebassets\\images\\50d4f4eb-d390-4222-b1a2-10d1f7920510_Pants.jfif"
     },
     {
       "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\5760327a-432a-4b2c-b8ea-5e4ddbd414e9_Remera Algodon.jpg",
@@ -87,6 +99,10 @@
     {
       "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\a87ce353-d209-4005-85e2-0ee846a7f160_Remera Algodon.jpg",
       "PackagePath": "staticwebassets\\images\\a87ce353-d209-4005-85e2-0ee846a7f160_Remera Algodon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\b28843a0-036a-46c2-b37c-cdc92f038a4a_Remera Algodon.jpg",
+      "PackagePath": "staticwebassets\\images\\b28843a0-036a-46c2-b37c-cdc92f038a4a_Remera Algodon.jpg"
     },
     {
       "Id": "C:\\Users\\Joaquinho\\source\\repos\\SosD\\SosD\\wwwroot\\images\\b76f4303-2314-4237-8934-66da7c877be7_Pants.jfif",

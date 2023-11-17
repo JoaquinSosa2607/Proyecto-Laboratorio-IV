@@ -1,0 +1,60 @@
+﻿@model IEnumerable<SosD.Models.Promociones>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="font-family:Impact,Arial;">Promociones</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-dark">Agregar promoción</a>
+    <a asp-action="ImportarPromociones" class="btn btn-light">Importar</a>
+</p>
+<table class="table" style="box-shadow: 10px 10px 5px lightgrey;">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantMin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descuento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedioPago)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaRegistro)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantMin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descuento) %
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MedioPago.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaRegistro)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

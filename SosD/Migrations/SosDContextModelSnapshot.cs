@@ -44,6 +44,28 @@ namespace SosD.Migrations
                     b.ToTable("Diseño");
                 });
 
+            modelBuilder.Entity("SosD.Models.MedioPago", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("ID");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<DateTime?>("FechaRegistro")
+                        .HasColumnType("smalldatetime");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("MedioPago");
+                });
+
             modelBuilder.Entity("SosD.Models.Presupuesto", b =>
                 {
                     b.Property<int>("Id")
@@ -82,6 +104,39 @@ namespace SosD.Migrations
                     b.HasIndex("TipoPrendaId");
 
                     b.ToTable("Presupuesto");
+                });
+
+            modelBuilder.Entity("SosD.Models.Promociones", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("ID");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int?>("CantMin")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<int?>("Descuento")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("FechaRegistro")
+                        .HasColumnType("smalldatetime");
+
+                    b.Property<int?>("MedioPagoId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("MedioPagoId");
+
+                    b.ToTable("Promociones");
                 });
 
             modelBuilder.Entity("SosD.Models.TipoPrenda", b =>
@@ -188,6 +243,15 @@ namespace SosD.Migrations
                     b.Navigation("Diseño");
 
                     b.Navigation("TipoPrenda");
+                });
+
+            modelBuilder.Entity("SosD.Models.Promociones", b =>
+                {
+                    b.HasOne("SosD.Models.MedioPago", "MedioPago")
+                        .WithMany()
+                        .HasForeignKey("MedioPagoId");
+
+                    b.Navigation("MedioPago");
                 });
 
             modelBuilder.Entity("SosD.Models.TipoPrenda", b =>
